@@ -95,8 +95,8 @@ Our work is closely related to the following assets that inspire our implementat
 
 - DeST:  https://github.com/lyhisme/DeST
 - LaSA:  https://github.com/HaoyuJi/LaSA
-- MoMA-M3T:  https:// github.com/ kuanchihhuang/ MoMA- M3T
-- AMGCFN:  https:// github.com/ kuanchihhuang/ MoMA- M3T
+- MoMA-M3T:  https://github.com/kuanchihhuang/MoMA-M3T
+- AMGCFN:  https://github.com/EdwardHaoz/IEEE_TGRS_AMGCFN
 
 
 
