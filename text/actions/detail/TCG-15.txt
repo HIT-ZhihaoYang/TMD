@@ -1,0 +1,15 @@
+Inactive: The officer towards agent, raise double arms to signal vehicles from front side to stop.
+Stop_Both_Static: The officer towards agent, raise double arms to signal vehicles from front side to stop.
+Clear_Right_Static: The officer raise right hand to clear the junction.
+Go_Both_Static: The officer turns to the side, raise double arms to signal vehicles from cross side to stop.
+Go_Right_Dynamic: The officer swing right hand from right to left to signal right-side vehicles to proceed.
+Stop_Left_Dynamic: The officer waving left hand from up to down to signal left-side vehicles to stop.
+Go_Left_Dynamic: The officer swing left hand from left to right to signal left-side vehicles to proceed.
+Clear_Left_Static: The officer raise left hand to clear the junction.
+Go_Right_Static: The officer turns to the side, raise right arms to signal vehicles from cross side to proceed.
+Go_Left_Static: The officer turns to the side, raise left arms to signal vehicles from cross side to proceed.
+Stop_Right_Static: The officer toward to agent, raise right arm to signal vehicles from front side to stop.
+Stop_Left_Static: The officer toward to agent, raise left arm to signal vehicles from front side to stop.
+Stop_Both_Dynamic: The officer waving left and right hands from up to down to signal front side vehicles to stop.
+Stop_Right_Dynamic: The officer waving right hand from up to down to signal right-side vehicles to stop.
+Go_Both_Dynamic: The officer swing left and right hand from left to right to signal cross side vehicles to proceed.

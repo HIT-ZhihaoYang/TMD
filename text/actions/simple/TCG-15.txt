@@ -1,0 +1,15 @@
+Inactive
+Stop Both Static
+Clear Right Static
+Go Both Static
+Go Right Dynamic
+Stop Left Dynamic
+Go Left Dynamic
+Clear Left Static
+Go Right Static
+Go Left Static
+Stop Right Static
+Stop Left Static
+Stop Both Dynamic
+Stop Right Dynamic
+Go Both Dynamic
