@@ -74,7 +74,7 @@ Here, `--dataset` can be one of the following: LARA, MCFS-22, MCFS-130, PKU-subj
 `--cuda` specifies the ID number of the GPU to be used for training. 
 Additionally, you can use `--result_path` to specify the output path, which defaults to `./result`.
 
-If you wish to modify other parameters, please make the necessary changes in `csv/PKU-subject/config.yaml`.
+If you wish to modify other parameters, please make the necessary changes in `config/XXX/config.yaml`.
 
 
 
