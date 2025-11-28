@@ -1,4 +1,4 @@
-# <p align=center> TMD: Text-Assisted Motion-Topology Decoupling Framework for  Skeleton-Based Temporal Action Segmentation</p>
+# <p align=center> TMD: Topology-Motion Decoupling Framework with Textual Regularization for Skeleton-Based Temporal Action Segmentation</p>
 
 
 
