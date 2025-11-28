@@ -89,6 +89,15 @@ python evaluate.py
 Here, `--dataset` and `--cuda` have the same meaning as in the training command. 
 Note that if you specify the evaluation `--result_path`, it should match the training `--result_path`, which defaults to `./result`.
 
+## Acknowledgement
+
+Our work is closely related to the following assets that inspire our implementation. We gratefully thank the authors. 
+
+- DeST:  https://github.com/lyhisme/DeST
+- LaSA:  https://github.com/HaoyuJi/LaSA
+- MoMA-M3T:  https:// github.com/ kuanchihhuang/ MoMA- M3T
+- AMGCFN:  https:// github.com/ kuanchihhuang/ MoMA- M3T
+
 
 
 
